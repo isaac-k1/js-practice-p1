@@ -41,7 +41,7 @@ remove1Point()
 console.log(myPoints)
 
 // 4.
-// Try to predict what each of the lines will log out
+// Try to predict what each of the lines will log out.
 console.log("2" + 2) // "22"
 console.log(11 + 7) //  18
 console.log(6 + "5") // "65"
